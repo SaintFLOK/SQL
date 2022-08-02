@@ -1,8 +1,9 @@
-# SQL
-Примеры простых запросов SQL
-
- # 1. Создание таблицы категории товаров для женжин:
-
+<h1>
+Примеры простых запросов SQL <img src="https://ultimateitcourses.ca/wp-content/uploads/2018/08/SQL.png" width="70">
+</h1>
+<h1>
+ 1. Создание таблицы категории товаров для женщин:
+</h1>
 CREATE TABLE `schema`.`categoties` (
   `categories_id` INT NOT NULL AUTO_INCREMENT,
   `categories_for_women` VARCHAR(45) NOT NULL,
