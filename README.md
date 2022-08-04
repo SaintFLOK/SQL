@@ -84,7 +84,7 @@ SELECT * FROM schema.product WHERE price < 5000 ORDER BY price DESC
 
 # 6. Удаление строки:
  
- Для удаление строки кроссовки из таблицы categoies используется команда:
+ Для удаление строки "Кроссовки" из таблицы categoies используется команда:
  
  DELETE FROM schema.categories WHERE categories_id = 24
  
